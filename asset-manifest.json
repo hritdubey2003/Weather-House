@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-House/static/css/main.8b93431b.css",
+    "main.js": "/Weather-House/static/js/main.9b731deb.js",
+    "static/js/453.46bfba31.chunk.js": "/Weather-House/static/js/453.46bfba31.chunk.js",
+    "static/media/cloud.png": "/Weather-House/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Weather-House/index.html",
+    "main.8b93431b.css.map": "/Weather-House/static/css/main.8b93431b.css.map",
+    "main.9b731deb.js.map": "/Weather-House/static/js/main.9b731deb.js.map",
+    "453.46bfba31.chunk.js.map": "/Weather-House/static/js/453.46bfba31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b93431b.css",
+    "static/js/main.9b731deb.js"
+  ]
+}
